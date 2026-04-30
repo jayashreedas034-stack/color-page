@@ -1,2 +1,0 @@
-# color-page
-page-color
